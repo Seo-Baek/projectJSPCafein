@@ -73,4 +73,4 @@
   <h3>See More....</h3>
  Contact Me_ kimse0816@gmail.com<br />
  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqbQHFzWCNxJstmZCwdGNZJpJwMlfdtkZPZNxWqdTxvdWbVhqTqMKNMxFJqwtZHqqkGgqq"
- >주소를 복사하세요_Gmail로 이동</a> <span>| 데스크톱의 경우 편지쓰기로 이동</span>
+ >이메일주소 복사 후 클릭하세요_<i>Gmail로 이동</i></a> <span>| 데스크톱의 경우 편지쓰기로 이동</span>
