@@ -71,4 +71,5 @@
 <br />
   <hr />
   <h3>See More....</h3>
-  Contact Me _  [kimse0816@gmail.com](kimse0816@gmail.com,"Seo_sMail")kimse0816@gmail.com
+  [kimse0816@gmail.com](kimse0816@gmail.com, "google link")
+ Contact Me _  kimse0816@gmail.com
