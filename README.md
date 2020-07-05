@@ -71,4 +71,4 @@
 <br />
   <hr />
   <h3>See More....</h3>
- Contact Me_<a href="gmail.com">kimse0816@gmail.com</a>
+ Contact Me_<a href="https://https://mail.google.com/mail/u/0/#inbox?compose=new">kimse0816@gmail.com</a>
