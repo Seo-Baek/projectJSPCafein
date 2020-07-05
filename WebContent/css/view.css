@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+h2 {
+	display: block;
+	font-size: 1.5em;
+	margin-block-start: 0.83em;
+	margin-block-end: 0.83em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: bold;
+}
+
+.table-line {
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+
+tr {
+	height: 30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+th {
+	text-align: center;
+	font-size: 15px;
+}
+
+.align-none {
+	text-align: left;
+}
+
+.contlist {
+	font-size: 20px;
+}
+
+a {
+	color: navy;
+}
+
+.write tr {
+	text-align: left;
+}
+
+
+#contbeans th {
+	text-align: center;
+	width: 20%;
+}
